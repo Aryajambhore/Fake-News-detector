@@ -8,7 +8,7 @@ Built with TF-IDF vectorization and PassiveAggressiveClassifier.
 - `model.pkl` - Trained ML model
 - `vectorizer.pkl` - TF-IDF vectorizer
 - `requirements.txt` - Python dependencies
-- [fake-and-real-news-dataset]([https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data]) 
+- [fake-and-real-news-dataset](https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data) 
 
 ## 🚀 How to Run
 1. Clone this repo
